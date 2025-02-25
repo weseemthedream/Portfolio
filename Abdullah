@@ -1,0 +1,6 @@
+weseemthedream.github.io/
+│── index.html        (Main portfolio page)
+│── style.css         (Styling for the portfolio)
+│── images/           (Folder for profile images, project images, etc.)
+│── projects/         (Optional: Folder for project showcase)
+│── README.md         (Basic info about your portfolio)
